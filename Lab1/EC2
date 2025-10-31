@@ -1,1 +1,5 @@
-
+In Lab 1, I created and configured an Amazon EC2 instance using AWS Management Console.
+After downloading and securing the PEM key, I successfully connected to the instance 
+through SSH using Git Bash. Once connected, I was able to install and created an Apache Webserver,
+deployed a custom HTML test page, and verified that the web server was accessible through
+the instance's public IP address.
